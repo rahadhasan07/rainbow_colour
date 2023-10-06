@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<img src=https://github.com/rahadhasan07/rainbow_colour/blob/main/Screenshot%202023-10-06%20140459.png alt="logo" width= height= />
+<img alt="coding" src="https://github.com/rahadhasan07/rainbow_colour/blob/main/Screenshot%202023-10-06%20140459.png">
 
 <p>You can use it for your website background template</p>
 
